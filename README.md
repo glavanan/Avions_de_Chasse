@@ -1,4 +1,4 @@
-Project in go, App
+Project in go, App for mobile
 
 to run this project, you need to install https://github.com/golang/mobile
 
